@@ -1,3 +1,1 @@
-both right.
-stash practicing
-1st September gitttomoe2 wa-i
+fetch wo practice
